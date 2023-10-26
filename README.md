@@ -16,14 +16,13 @@ The code for the project is written in Python and uses the following libraries:
 
 The code is organized into the following Jupyter notebooks:
 
-* **Data preparation and visualization.ipynb:** This notebook contains the code for cleaning and preprocessing the dataset, as well as visualizing the data.
-* **Model building and evaluation.ipynb:** This notebook contains the code for building and evaluating different machine learning models.
+* **Data_Visualization.ipynb & Augmenting+Resizing Data.ipynb:** These notebooks contain the code for cleaning and preprocessing the dataset, as well as visualizing the data.
 
 To run the code, simply download the repository and open the Jupyter notebooks in your browser.
 
 ### Documentation
 
-The documentation for the project is located in the `docs` folder. The documentation includes information on the following topics:
+The documentation for the project is located in the `Documentation` folder. The documentation includes information on the following topics:
 
 * **Dataset:** A description of the dataset used for the project.
 * **Data preparation and visualization:** A detailed explanation of the data preparation and visualization steps.
