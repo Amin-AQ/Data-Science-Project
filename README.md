@@ -1,5 +1,3 @@
-**README**
-
 ## SustainAI - Automated Recycling Classification
 
 This repository contains the code and documentation for a data science project on automated recycling classification. The project aims to build a machine learning model that can accurately classify waste items into different categories, such as paper, plastic, metal, leaf waste, and wood waste.
