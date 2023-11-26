@@ -42,13 +42,13 @@ To run the code, simply download the repository and open the Jupyter notebooks i
 You can also access the mobile application from releases.
 
 ### Results
-**Accuracy and Loss curves**
+* **Accuracy and Loss curves**
 ![loss_accuracy](https://github.com/Amin-AQ/Data-Science-Project/assets/98892816/076605d4-acf5-4341-a843-a4ed3d547a62)
 
-**Classification Report**
+* **Classification Report**
 ![classificaition report](https://github.com/Amin-AQ/Data-Science-Project/assets/98892816/58b88061-d72a-40ac-a636-d512cb0695ae)
 
-**Confusion Matrix**
+* **Confusion Matrix**
 ![conf_matrix](https://github.com/Amin-AQ/Data-Science-Project/assets/98892816/ffbed81e-da17-4e47-a1ad-19869f6a3cb5)
 
 ### Contributing
